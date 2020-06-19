@@ -21,7 +21,7 @@ Aplicação Front-end desenvolvida para layout de aplicativo web de drag and dro
 
 <div align="center">
 
-![sw](https://user-images.githubusercontent.com/48495838/84806629-5d3a7700-afdc-11ea-8e24-3254591b62ec.png)
+![kanban](https://user-images.githubusercontent.com/48495838/85173353-74ca6780-b249-11ea-9e63-a6ac0ef3c441.png)
 
 </div>
 
