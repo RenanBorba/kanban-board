@@ -54,7 +54,8 @@ Aplicação Front-end desenvolvida para layout de aplicativo web de drag and dro
       <li>git push origin my-feature</li>
     </ul>
 </ul>
-<br><br><br>
+<br><br>
+<br>
 
 ## :mega: Segue abaixo a principal interface:
 
