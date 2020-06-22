@@ -81,6 +81,7 @@ Aplicação Front-end desenvolvida para layout de aplicativo web de drag and dro
 ![kanban](https://user-images.githubusercontent.com/48495838/85172572-beb24e00-b247-11ea-94d6-f8a0d023b8ce.gif)
 </div>
 
-<br><br><br>
+<br><br>
+<br>
 
 Renan Borba.
