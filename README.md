@@ -1,7 +1,6 @@
 <div align="center">
 
-## Rocketseat - Masterclass #16
-# Projeto - Aplicação Kanban Board
+# Projeto - Aplicação Kanban Board Web
 
 </div>
 
