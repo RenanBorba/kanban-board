@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/kanban-board.svg)](https://github.com/RenanBorba/kanban-board) [![Build Status](https://img.shields.io/github/forks/RenanBorba/kanban-board.svg)](https://github.com/RenanBorba/kanban-board)
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/kanban-board.svg)](https://github.com/RenanBorba/kanban-board) [![Build Status](https://img.shields.io/github/forks/RenanBorba/kanban-board.svg)](https://github.com/RenanBorba/kanban-board) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 </div>
 
@@ -79,9 +79,5 @@ Aplicação Front-end desenvolvida para layout de aplicativo web de drag and dro
 <br><br>
 
 ![kanban](https://user-images.githubusercontent.com/48495838/85172572-beb24e00-b247-11ea-94d6-f8a0d023b8ce.gif)
+
 </div>
-
-<br><br>
-<br>
-
-Renan Borba.
