@@ -56,7 +56,7 @@ Aplicação Front-end desenvolvida para layout de aplicativo web de drag and dro
 <br><br>
 <br>
 
-## :mega: Segue abaixo a principal interface:
+## :mega: ⬇ Abaixo, a principal interface:
 
 <br><br><br>
 
