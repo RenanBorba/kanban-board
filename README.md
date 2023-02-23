@@ -70,7 +70,7 @@ Aplicação Front-end desenvolvida para layout de aplicativo web de drag and dro
 
 <br><br>
 
-![02](https://user-images.githubusercontent.com/48495838/85172517-a17d7f80-b247-11ea-9ad9-e85d8b9595d9.png)
+![02](https://user-images.githubusercontent.com/48495838/221012082-2ffcb874-e165-4285-a81a-54bb48af214b.png)
 
 <br><br>
 
