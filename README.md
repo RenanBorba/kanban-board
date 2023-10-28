@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação Front-end desenvolvida para layout de aplicativo web de drag and drop no estilo Kanban, utilizando a API nativa do HTML para a funcionalidade de arrastar e soltar, é voltado para fins diversos da rotina profissional e pessoal. Usa dados estáticos de tarefas diárias para melhor visualização das atividades.
+Aplicação Front-end desenvolvida para layout de aplicativo web de drag and drop no estilo Kanban, utilizando a API nativa do HTML para a funcionalidade de arrastar e soltar. App web é voltado para registros diversos da rotina profissional e pessoal. Usa dados estáticos de tarefas diárias para melhor visualização das atividades.
 
 <br><br>
 
